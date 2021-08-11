@@ -1,3 +1,2 @@
-# phpMVC-HomeAd
-# custom mvc structure of php 
-# clean code 
+# phpMVC-HomeAd custom mvc structure of php 
+ 
